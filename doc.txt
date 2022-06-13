@@ -1,1 +1,2 @@
 añado linea1 al documento
+añado linea2 al documento 
